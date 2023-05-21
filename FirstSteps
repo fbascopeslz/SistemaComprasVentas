@@ -1,0 +1,5 @@
+NOTE: Require XAMPP https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
+NOTE: Require node-v6.17.1-x64.msi https://nodejs.org/download/release/v6.17.1/node-v6.17.1-x64.msi
+
+composer update
+npm install
